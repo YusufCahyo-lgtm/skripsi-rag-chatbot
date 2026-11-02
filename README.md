@@ -8,6 +8,14 @@ Aplikasi Chatbot pintar berbasis **Retrieval-Augmented Generation (RAG)** yang m
 - **Google Gemini API**: Menggunakan model embedding `gemini-embedding-001` dan LLM terbaru `gemini-3.8-flash` untuk hasil jawaban yang cerdas dan kontekstual.
 - **Interactive Terminal Chat**: Fitur perulangan chat langsung dari terminal keyboard pengguna.
 
+## 🟢 Demo & Bukti Keberhasilan Chatbot
+Berikut adalah hasil pengujian interaktif langsung melalui terminal, di mana sistem LangGraph berhasil mengekstrak dokumen dari ChromaDB dan disintesis secara akurat oleh Google Gemini:
+
+![Chatbot Success Terminal](chatbot_success.jpeg)
+
+---
+
+
 ## 🛠️ Cara Instalasi & Menjalankan
 
 1. **Clone Repositori ini:**
